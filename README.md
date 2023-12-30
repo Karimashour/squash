@@ -6,10 +6,11 @@ https://karimashour.github.io/squash/
 
 # tools :
 - html
-- tailwind css
-- react.js
-
+- css
+- bootstrap
+- bootstrap icons
+- jquery
 
 
 # features
-- Architecture landing page using Tailwind CSS and React JS
+- squash sport landing page 
