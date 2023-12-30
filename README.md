@@ -1,6 +1,6 @@
 # link preview :
 
-https://architecture-landing-page.vercel.app/
+https://karimashour.github.io/squash/
 
 <img src="image.png"/>
 
